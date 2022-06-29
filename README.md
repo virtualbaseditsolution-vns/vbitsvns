@@ -5,7 +5,7 @@
 • 🌱 I’m currently learning <b>Everything</b><br/>
 • 👯 I’m looking to collaborate on anything with cool idea<br/>
 • 💬 Ask me about <b>Full Stack</b><br/>
-• 📫 Reach me at on instagram: <a href="https://www.instagram.com/vijaybahadurvns"><b>@vbits.vns</b></a><br/>
+• 📫 Reach me at on instagram: <a href="https://www.instagram.com/vijaybahadurvns"><b>@VBITSVNS</b></a><br/>
 </span>
 
 <br />
@@ -14,7 +14,7 @@
 ## **Connect with me:**
 
 <p>
-<a href="https://www.github.com/vbitsvns"> 
+<a href="https://www.github.com/virtualbaseditsolution-vns"> 
     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  width="47"/>
 </a>
 <a href="https://www.instagram.com/vijaybahadurvns"> 
@@ -73,5 +73,3 @@
 
 </p>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial)
-<img src="https://komarev.com/ghpvc/?username=hicodersofficial" alt="hicodersofficial" /> -->
