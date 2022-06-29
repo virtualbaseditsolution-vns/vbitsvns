@@ -1,5 +1,5 @@
 
-## Fun Fact 🎈: <img align="left" height="150" src="vbits.png" style="margin-right: 2rem;height:200px">
+## Fun Fact 🎈: <img align="left" height="150" src="developer_cat.gif" style="margin-right: 2rem;height:200px">
 
 • 🔭 I’m currently working on <b>something cool</b> <br/>
 • 🌱 I’m currently learning <b>Everything</b><br/>
