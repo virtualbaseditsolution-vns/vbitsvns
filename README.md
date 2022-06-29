@@ -73,3 +73,13 @@
 
 </p>
 
+<br />
+<br />
+
+## **Payment Support:**
+
+<a  href="https://paypal.me/vbitsvns">
+    <img  alt="LinkedIn" src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" width="150" />
+</a>
+
+
