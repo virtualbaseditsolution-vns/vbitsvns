@@ -1,15 +1,22 @@
 
-## Fun Fact 🎈: <img align="left" height="150" src="developer_cat.gif" style="margin-right: 2rem;height:200px">
+## Fun Fact 🎈: <img align="left" height="150" src="developer_cat.gif" style="margin-right: 2rem;height:250px">
+<span>🚀 Flutter Developer | Mobile App Enthusiast | Code Craftsman 🛠️
 
-• 🔭 I’m currently working on <b>something cool</b> <br/>
-• 🌱 I’m currently learning <b>Everything</b><br/>
-• 👯 I’m looking to collaborate on anything with cool idea<br/>
-• 💬 Ask me about <b>Full Stack</b><br/>
+• 📱 Transforming ideas into pixel-perfect, cross-platform mobile experiences with Flutter.<br/>
+• 💡 Passionate about creating sleek, intuitive, and performance-driven apps.<br/>
+• 🌐 Fluent in Dart, obsessed with UI/UX, and committed to clean code.<br/>
+• 🔧 Constantly exploring new widgets, libraries, and design patterns.<br/>
+• 🧩 Solving real-world problems one widget at a time.<br/>
 • 📫 Reach me at on instagram: <a href="https://www.instagram.com/vijaybahadurvns"><b>@VBITSVNS</b></a><br/>
 </span>
 
 <br />
+Let's build the future, one widget at a time! 📲✨ #FlutterDev #MobileApps #CodeMagic
 <br />
+Feel free to customize it further to reflect your unique style and experiences.
+
+<br />
+
 
 ## **Connect with me:**
 
