@@ -1,13 +1,13 @@
 
-## Fun Fact 🎈: <img align="left" height="150" src="developer_cat.gif" style="margin-right: 2rem;height:250px">
-<span>🚀 Flutter Developer | Mobile App Enthusiast | Code Craftsman 🛠️
+## Fun Fact 🎈: <img align="left" src="developer_cat.gif" style="margin-right: 2rem;padding-right:50px;height:250px">
+<span style="margin-left:50px;">🚀 Flutter Developer | Mobile App Enthusiast | Code Craftsman 🛠️
 
 • 📱 Transforming ideas into pixel-perfect, cross-platform mobile experiences with Flutter.<br/>
 • 💡 Passionate about creating sleek, intuitive, and performance-driven apps.<br/>
 • 🌐 Fluent in Dart, obsessed with UI/UX, and committed to clean code.<br/>
 • 🔧 Constantly exploring new widgets, libraries, and design patterns.<br/>
 • 🧩 Solving real-world problems one widget at a time.<br/>
-• 📫 Reach me at on instagram: <a href="https://www.instagram.com/vijaybahadurvns"><b>@VBITSVNS</b></a><br/>
+• 📫 Reach me at on instagram: <a href="https://www.instagram.com/vbits.vns"><b>@VBITSVNS</b></a><br/>
 </span>
 
 <br />
@@ -17,14 +17,18 @@ Feel free to customize it further to reflect your unique style and experiences.
 
 <br />
 
+## **Profile Trophy:**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualbaseditsolution-vns&label=Profile%20views&color=0e75b6&style=flat" alt="virtualbaseditsolution-vns" /> </p>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virtualbaseditsolution-vns&margin-w=15" alt="virtualbaseditsolution-vns" /></a> </p>
 
 ## **Connect with me:**
 
 <p>
 <a href="https://www.github.com/virtualbaseditsolution-vns"> 
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  width="47"/>
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"  width="47"/>
 </a>
-<a href="https://www.instagram.com/vijaybahadurvns"> 
+<a href="https://www.instagram.com/vbits.vns"> 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30"/>
 </a>
 <a href="https://www.facebook.com/vijaybahadurvns"> 
@@ -81,7 +85,9 @@ Feel free to customize it further to reflect your unique style and experiences.
 </p>
 
 <br />
-<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualbaseditsolution-vns&show_icons=true&locale=en&layout=compact" alt="virtualbaseditsolution-vns" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtualbaseditsolution-vns&show_icons=true&locale=en" alt="virtualbaseditsolution-vns" /></p>
 
 ## **Payment Support:**
 
